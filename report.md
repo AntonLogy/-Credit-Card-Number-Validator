@@ -10,7 +10,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-* в [легенде](https://github.com/netology-code/javaqa-homeworks/tree/master/intro) дается тест план и данные;
+* в [легенде](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---credit-card-number-validator) дается тест план и данные;
 * Два тест-кейса: проверка валидного номера карты, проверка невалидного номера карты.
 
 В качестве тестовых данных использовались данные:
@@ -22,7 +22,7 @@
 
 ![]()
 
-* [задание из легенды](https://github.com/netology-code/javaqa-homeworks/tree/master/intro) для проверки номера крты, [примеры номеров](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+* [задание из легенды](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---credit-card-number-validator) для проверки номера крты, [примеры номеров](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 Ожидаемый результат:
 
