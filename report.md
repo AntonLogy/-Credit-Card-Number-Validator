@@ -28,9 +28,11 @@
 
 Программа запускается и при валидном номере пишет Result is OK
 
-![]()
+![](https://user-images.githubusercontent.com/63151504/80531863-b4e13c80-89b4-11ea-9875-6be249ffc783.png)
 
 Программа запускается и при невалидном номере пишет Result is FAIL
+
+![](https://user-images.githubusercontent.com/63151504/80531981-e528db00-89b4-11ea-87e1-f3f6aa54e265.png)
 
 ## Тестирование производилось в следующем окружении:
 * windows 7 x64
